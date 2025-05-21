@@ -41,19 +41,16 @@ h3 {
     font: inherit;
 }
 
-.container{
+.container {
     max-width: 1280px;
     padding-inline: 32px;
     margin-inline: auto;
 }
 
-
-/* Classe utilitaria */
-
-.grid{
-    display: grid;
+img {
+    max-width: 100%;
 }
 
-.grid-flow-col{
-    grid-auto-flow: column;
+main {
+    margin-top: 40px;
 }
